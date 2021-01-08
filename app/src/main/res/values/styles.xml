@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. --> <item name="colorPrimary">@color/colorPrimary</item> <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <item name="colorAccent">@color/colorAccent</item>
+    </style> <style name="my_linear_style1"> <item name="android:layout_marginLeft">15dp</item>
+</style>
+</resources>
